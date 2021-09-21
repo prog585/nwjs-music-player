@@ -1,10 +1,9 @@
 ## Music Player
 
-Create beautiful UI to play music stored in the "music folder" using the HTML5 audio API
+Desktop Music player application using the HTML5 audio API and NW.js.
 
 ## Project Specifications
 
-- Create UI for music player including spinning image and song detail popup
-- Add play and pause functionality
-- Switch songs
-- Progress bar
+- HTML5 audio API
+- NW.js project settings
+- NW.js API usage
