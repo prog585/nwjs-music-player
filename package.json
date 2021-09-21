@@ -1,0 +1,16 @@
+{
+  "name": "nwjs-music-player",
+  "version": "0.0.1",
+  "description": "Desktop Music player backed by NW.js",
+  "main": "index.html",
+  "window": {
+    "width": 400,
+    "height": 520,
+    "show": false,
+    "title": "NW.js Music Player",
+    "toolbar": false
+  },
+  "scripts": {
+    "start": "nw ."
+  }
+}
