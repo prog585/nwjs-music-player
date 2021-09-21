@@ -11,5 +11,5 @@ Desktop Music player application using the HTML5 audio API and NW.js.
 ## How to run the application
 1. Install nw.js from https://nwjs.io
 2. Use start script given in package.json
-      npm start
+      - npm start
   Or use any method given on nwjs official website.
